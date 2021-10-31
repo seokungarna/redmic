@@ -1,10 +1,10 @@
 ---
 title: Redmic har konstaterat att organiska miljöföroreningar släpps ut i betydande kvantiteter från små avlopp till bäeckar och åar
-date: 2019-04-17
+date: 2021-10-26
 published: true
 tags: ['nyheter','avlopp', 'miljöpåverkan', 'städning']
 series: false
-cover_image: ./images/redmic_organiska.jpg
+cover_image: ./images/redmic_organiska.JPG
 canonical_url: false
 description: "Som ni vet har RedMic har som övergripande mål att identifiera och kvantifiera utsläpp av miljöföroreningar från små avlopp och att utveckla och utvärdera nya reningstekniker."
 ---
