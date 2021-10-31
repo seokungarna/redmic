@@ -10,7 +10,8 @@
       {{ $static.metadata.siteName }}
     </h1>
 
-    <p>A baseline Gridsome starter to get you going with Bulma.</p>
+    <p>RedMic-projektet finansieras av FORMAS och syftar till att identifiera kritiska organiska mikroföroreningar som släpps ut från reningsanläggningar på plats (OSSF) och tillhandahåller nya vetenskapligt baserade reduktionsverktyg och reduktionsstrategier. <br>
+    Närmare 700 000 privata hushåll i Sverige är inte anslutna till någon central reningsanläggning och utsläppen av organiska mikroföroreningar från OSSF är i stort sett okända..</p>
   </div>
 </template>
 
