@@ -4,7 +4,7 @@ date: 2021-10-26
 published: true
 tags: ['nyheter','avlopp', 'miljöpåverkan', 'städning']
 series: false
-cover_image: ./images/redmic_organiska.JPG
+cover_image: ./images/redmic_organiska_bild.jpg
 canonical_url: false
 description: "Som ni vet har RedMic har som övergripande mål att identifiera och kvantifiera utsläpp av miljöföroreningar från små avlopp och att utveckla och utvärdera nya reningstekniker."
 ---
