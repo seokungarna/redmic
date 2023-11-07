@@ -2,7 +2,7 @@
   "name": "redmic",
   "private": true,
   "scripts": {
-    "build": "gridsome build",
+    "build": "export SET NODE_OPTIONS=--openssl-legacy-provider && gridsome build",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d dist",
     "develop": "gridsome develop",
@@ -20,12 +20,12 @@
     ]
   },
   "dependencies": {
-    "@gridsome/plugin-google-analytics": "^0.1.0",
+    "@gridsome/plugin-google-analytics": "^0.1.2",
     "@gridsome/remark-prismjs": "^0.2.0",
-    "@gridsome/source-filesystem": "^0.6.0",
-    "@gridsome/transformer-remark": "^0.3.0",
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.3.4",
     "bulma": "^0.8.0",
-    "gridsome": "^0.7.0"
+    "gridsome": "^0.7.23"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
