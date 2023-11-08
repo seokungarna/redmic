@@ -25,7 +25,8 @@
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.4",
     "bulma": "^0.8.2",
-    "gridsome": "^0.7.23"
+    "gridsome": "^0.7.23",
+    "vue": "2.7.15"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
